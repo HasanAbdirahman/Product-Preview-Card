@@ -4,6 +4,9 @@ body {
   font-size: 14px;
   font-family: "Montserrat";
   padding: 40px;
+   display: flex;
+  align-items: center;
+  justify-content: center;
 }
 h1 {
   font-family: "Montserrat-Bold";
@@ -69,7 +72,9 @@ h2 {
     max-width: 1500px;
     font-size: 14px;
     font-family: "Montserrat";
-    margin: 10% auto 20% auto;
+    display: flex;
+  align-items: center;
+  justify-content: center;
   }
   .card {
     display: grid;
