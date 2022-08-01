@@ -72,9 +72,7 @@ h2 {
     max-width: 1500px;
     font-size: 14px;
     font-family: "Montserrat";
-    display: flex;
-  align-items: center;
-  justify-content: center;
+   
   }
   .card {
     display: grid;
